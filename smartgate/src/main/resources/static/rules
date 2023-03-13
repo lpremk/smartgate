@@ -1,0 +1,11 @@
+Rules
+
+* every time a user enters hospital must create a visit
+* user details should not delete from database until the details completely not needed. 
+  user will have expiry date and last date
+
+
+
+
+
+
