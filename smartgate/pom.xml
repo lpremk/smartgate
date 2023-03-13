@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>code</groupId>
-	<artifactId>education</artifactId>
+	<artifactId>smartgate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>education</name>
-	<description>online education</description>
+	<name>smartgate</name>
+	<description>online smartgate</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -30,10 +30,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>mysql</groupId>
